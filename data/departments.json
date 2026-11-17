@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Computer Engineering",
+        "description": "Focuses on computer systems and software development."
+    },
+    {
+        "id": 2,
+        "name": "Artificial Intelligence and Data Science",
+        "description": "Focuses on AI, machine learning and data analysis."
+    },
+    {
+        "id": 3,
+        "name": "Information Technology",
+        "description": "Focuses on information systems and web technologies."
+    },
+    {
+        "id": 4,
+        "name": "Electronics and Telecommunication",
+        "description": "Focuses on electronics and communication systems."
+    },
+    {
+        "id": 5,
+        "name": "Mechanical Engineering",
+        "description": "Focuses on machines and manufacturing technologies."
+    },
+    {
+        "id": 6,
+        "name": "Civil Engineering",
+        "description": "Focuses on construction and infrastructure."
+    }
+]
