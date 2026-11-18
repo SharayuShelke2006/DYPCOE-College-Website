@@ -6,7 +6,7 @@ function Home() {
         <h2>Welcome to DYPCOE</h2>
 
         <img class="home-image"
-        src="https://images.unsplash.com/photo-1562774053-701939374585"
+        src="../college.png"
         alt="College building">
 
         <p>
