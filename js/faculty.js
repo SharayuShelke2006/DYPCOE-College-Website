@@ -3,8 +3,6 @@ async function Faculty() {
         <h2>Our Faculty</h2>
         <p id="error"></p>
 
-        <input type="text" id="searchFaculty"
-        placeholder="Search faculty by name">
 
         <table>
             <thead>
