@@ -3,7 +3,6 @@ async function Faculty() {
         <h2>Our Faculty</h2>
         <p id="error"></p>
 
-
         <table>
             <thead>
                 <tr>
@@ -27,18 +26,6 @@ async function Faculty() {
         let data = await response.json();
 
         displayFaculty(data);
-
-        let searchBox = document.getElementById("searchFaculty");
-
-        searchBox.addEventListener("input", function() {
-            let searchValue = searchBox.value.toLowerCase();
-
-            let filtered = data.filter(function(person) {
-                return person.name.toLowerCase().includes(searchValue);
-            });
-
-            displayFaculty(filtered);
-        });
 
     } catch (error) {
         document.getElementById("error").innerText =
