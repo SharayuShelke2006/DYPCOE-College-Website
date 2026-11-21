@@ -22,6 +22,7 @@ A simple college website created using HTML, CSS and JavaScript.
 - JSON
 - Fetch API
 - Local Storage
+- Single page application
 
 ## How to Run
 
